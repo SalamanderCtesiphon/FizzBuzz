@@ -16,3 +16,4 @@ const fizzbuzz = (num) => {
 }
 
 fizzbuzz(100);
+//added a comment 
